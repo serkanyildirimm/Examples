@@ -1,0 +1,40 @@
+h1{
+font-size: 100px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font: size 75px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav{
+font-size:20px;
+text-align:center;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.licenter{
+    list-style-position: inside;
+    display: table; 
+    text-align:center;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.licenter2{
+    text-align:left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
