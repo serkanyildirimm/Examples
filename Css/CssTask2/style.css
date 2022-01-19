@@ -1,0 +1,30 @@
+
+.center{
+text-align: center;
+}
+.box1{
+    background-color: rgb(189, 189, 189);
+    background-color:#EEEEEE
+}
+.td-left{
+    background-color: #7EE5DA; 
+    width:39%;
+}
+.td-medium{
+    background-color:#70CCC2; 
+    width: 22%; 
+    font-size: small;
+}
+
+.td-right{
+    background-color: #62B3AA; 
+    width: 39%; 
+    font-size: small;
+}
+table{
+    min-width: 100%;
+    margin: auto;
+}
+button{
+    border-radius:2 px;
+}
